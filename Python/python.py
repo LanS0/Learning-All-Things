@@ -4,3 +4,5 @@ JSONTHING = {
     "bool": [True, False]
 }
 
+for i in JSONTHING:
+    print(JSONTHING[i], i)
